@@ -21,3 +21,8 @@ user_projects/*
 !user_projects/empty.txt
 Studio.zip
 /studio
+.venv/
+.python-version
+get_studio.py
+requirements.txt
+output/
